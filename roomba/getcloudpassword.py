@@ -75,7 +75,7 @@ class irobotAuth:
         self.password = password
 
     def login(self):
-        r = requests.get("https://disc-prod.iot.irobotapi.com/v1/discover/endpoints?country_code=US")
+        r = requests.get("https://disc-prod-cn.iot.irobot.cn/v1/discover/endpoints?country_code=CN")
         response = r.json()
         deployment = response['deployments'][next(iter(response['deployments']))]
         self.httpBase = deployment['httpBase']

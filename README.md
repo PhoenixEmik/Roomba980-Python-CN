@@ -1,5 +1,8 @@
-Roomba980-Python
+Roomba980-Python-CN
 ================
+Fork of [NickWaterton/Roomba980-Python](https://github.com/NickWaterton/Roomba980-Python)
+
+This library was modified for the Chinese version iRobots.
 
 Unofficial iRobot Roomba python library (SDK).
 
