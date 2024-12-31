@@ -2,7 +2,7 @@ Roomba980-Python-CN
 ================
 Fork of [NickWaterton/Roomba980-Python](https://github.com/NickWaterton/Roomba980-Python)
 
-Modified for the Chinese iRobot account service, which is seperate from global iRobot.
+Modified for the Chinese iRobot account service, which is isolated from global iRobot.
 
 Unofficial iRobot Roomba python library (SDK).
 
